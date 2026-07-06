@@ -1,4 +1,4 @@
-# Practical-1 DataDigger
+# 📊 Data Diggerr — SQL Practical Project
 *Data Digger is a SQL project designed to demonstrate CRUD operations, aggregate functions, sorting, filtering, and relationships between multiple tables using MySQL.*
 
 ## Database:
