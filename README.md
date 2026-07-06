@@ -142,7 +142,7 @@ By completing this project, the following practical skills were developed:
 
 ## 👨‍💻 Author
 
-**Manav Patel**
+ **Manav Patel**
 
 📧 manavpatel.tech@gmail.com
 
