@@ -158,8 +158,8 @@ Orders     (1) ──< (1) Shipping
 | 18 | Retrieve a list of products along with their category names | [ `INNER JOIN` ](outputs/18_inner_join_products_categories.png) |
 | 19 | Get all orders with customer details | [ `LEFT JOIN` ](outputs/19_left_join_orders_customers.png) |
 | 20 | Find orders that haven't been shipped | [ `RIGHT JOIN` ](outputs/20_right_join_unshipped_orders.png) |
-| 21 | Show customers who have never placed an order | [ `UNION` (Full Outer Join) ](outputs/21_full_outer_join_no_orders.png) |
-| 22 | Find orders placed by customers who registered after 2025 | [ Subquery1 ](outputs/22_subquery_orders_after_2025.png) |
+| 21 | Show customers who have never placed an order | [ `UNION (Full Outer Join)` ](outputs/21_full_outer_join_no_orders.png) |
+| 22 | Find orders placed by customers who registered after 2025 | [ `Subquery1` ](outputs/22_subquery_orders_after_2025.png) |
 | 23 | Identify the customer who has spent the most | [ `Subquery2` ](outputs/23_subquery_top_spender.png) |
 | 24 | Get products that have never been ordered | [ `Subquery3` ](outputs/24_subquery_never_ordered.png) |
 | 25 | Extract the month from Order_Date to count orders per month | [ `Date Function1` ](outputs/25_month_extract_orders.png) |
